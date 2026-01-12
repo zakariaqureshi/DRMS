@@ -1,0 +1,6 @@
+fastapi           # For API
+uvicorn           # Server
+pandas            # Data processing
+numpy             # Calculations
+reportlab         # PDF generation
+python-dotenv     # Environment variables
